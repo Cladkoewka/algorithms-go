@@ -8,6 +8,7 @@ func TestIsAnagram() {
 	fmt.Printf("Word1: %s, Word2: %s, %b", s1, s2, isAnagram(s1, s2))
 }
 
+// https://leetcode.com/problems/valid-anagram/description/
 func isAnagram(s string, t string) bool {
 	if len(s) != len(t) {
 		return false

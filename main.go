@@ -5,5 +5,5 @@ import (
 )
 
 func main() {
-	arraysandhashing.TestIsAnagram()
+	arraysandhashing.TestTwoSum()
 }
