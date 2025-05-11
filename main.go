@@ -5,5 +5,5 @@ import (
 )
 
 func main() {
-	twopointers.TestIsPalindrome()
+	twopointers.TestTwoSum()
 }
