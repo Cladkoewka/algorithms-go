@@ -1,9 +1,9 @@
 package main
 
 import (
-	"github.com/Cladkoewka/algorithms-go/arraysandhashing"
+	"github.com/Cladkoewka/algorithms-go/twopointers"
 )
 
 func main() {
-	arraysandhashing.TestAnagrams()
+	twopointers.TestIsPalindrome()
 }
