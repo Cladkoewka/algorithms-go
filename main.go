@@ -5,5 +5,5 @@ import (
 )
 
 func main() {
-	twopointers.TestTwoSum()
+	twopointers.TestThreeSum()
 }
