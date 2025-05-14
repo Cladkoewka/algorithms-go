@@ -5,5 +5,5 @@ import (
 )
 
 func main() {
-	twopointers.TestThreeSum()
+	twopointers.TestMaxArea()
 }
