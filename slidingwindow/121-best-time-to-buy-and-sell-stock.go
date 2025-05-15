@@ -14,7 +14,7 @@ func maxProfit(prices []int) int {
 	minPrice := math.MaxInt
 	maxProfit := 0
 
-	for price := range prices {
+	for _, price := range prices {
 		if price < minPrice {
 			minPrice = price
 		} else if price-minPrice > maxProfit {
