@@ -1,9 +1,9 @@
 package main
 
 import (
-	"github.com/Cladkoewka/algorithms-go/twopointers"
+	"github.com/Cladkoewka/algorithms-go/slidingwindow"
 )
 
 func main() {
-	twopointers.TestMaxArea()
+	slidingwindow.Test121()
 }
