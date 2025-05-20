@@ -5,5 +5,5 @@ import (
 )
 
 func main() {
-	slidingwindow.Test121()
+	slidingwindow.Test3()
 }
