@@ -5,5 +5,5 @@ import (
 )
 
 func main() {
-	twopointers.Test2465()
+	twopointers.Test26()
 }
