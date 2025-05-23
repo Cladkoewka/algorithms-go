@@ -1,9 +1,9 @@
 package main
 
 import (
-	"github.com/Cladkoewka/algorithms-go/slidingwindow"
+	"github.com/Cladkoewka/algorithms-go/twopointers"
 )
 
 func main() {
-	slidingwindow.Test3364()
+	twopointers.Test2465()
 }
