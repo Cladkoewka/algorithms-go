@@ -1,9 +1,9 @@
 package main
 
 import (
-	"github.com/Cladkoewka/algorithms-go/twopointers"
+	"github.com/Cladkoewka/algorithms-go/stack"
 )
 
 func main() {
-	twopointers.Test28()
+	stack.Test739()
 }
